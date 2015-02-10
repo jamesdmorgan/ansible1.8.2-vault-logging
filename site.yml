@@ -1,0 +1,6 @@
+---
+# Playbook demonstrating Vault verbose logging
+- hosts: localhost
+  connection: local
+  roles:
+    - { role: vault-test }

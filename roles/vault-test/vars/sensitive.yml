@@ -1,0 +1,9 @@
+---
+sensitive_data: |
+  -----BEGIN RSA PRIVATE KEY-----
+  MIIEogIBAAKCAQEAtFEdPhLNSzdrVv2R1nFeMuCFMce9JiJoaz7DdbB6dZcUnSHh
+  .... THIS SHOULD NOT BE LOGGED
+  T+/LAoGAGGRqce3XZ54G4nwYMEZxSPqpl0xh3quGrP7CH/VMOWat6DUbURiUJkcA
+  mDjHVx35Y2fyv+LpGrPeVFt+s65N/wkJV4S+671gXV9K0YTB9PGKRf96AksjOlqg
+  +gqMdXuuWjXTCg6ps7uKilfxDhkyCzB0NUVy2ngYvaLuoEN+/AM=
+  -----END RSA PRIVATE KEY-----

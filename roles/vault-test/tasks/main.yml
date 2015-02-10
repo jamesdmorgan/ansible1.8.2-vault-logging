@@ -1,0 +1,3 @@
+---
+# Load vault secure properties files
+- include_vars: sensitive.yml
